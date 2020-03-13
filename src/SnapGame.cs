@@ -19,7 +19,7 @@ namespace CardGames
 
 		/// <summary>
 		/// Respond to the user input -- with requests affecting myGame
-		/// </summary>
+		/// </summary>  
 		/// <param name="myGame">The game object to update in response to events.</param>
 		private static void HandleUserInput(Snap myGame)
 		{
